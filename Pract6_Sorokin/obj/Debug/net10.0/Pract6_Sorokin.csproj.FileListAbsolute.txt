@@ -1,0 +1,14 @@
+C:\Users\sssssss\source\repos\Pract6_Sorokin\Pract6_Sorokin\bin\Debug\net10.0\Pract6_Sorokin.exe
+C:\Users\sssssss\source\repos\Pract6_Sorokin\Pract6_Sorokin\bin\Debug\net10.0\Pract6_Sorokin.deps.json
+C:\Users\sssssss\source\repos\Pract6_Sorokin\Pract6_Sorokin\bin\Debug\net10.0\Pract6_Sorokin.runtimeconfig.json
+C:\Users\sssssss\source\repos\Pract6_Sorokin\Pract6_Sorokin\bin\Debug\net10.0\Pract6_Sorokin.dll
+C:\Users\sssssss\source\repos\Pract6_Sorokin\Pract6_Sorokin\bin\Debug\net10.0\Pract6_Sorokin.pdb
+C:\Users\sssssss\source\repos\Pract6_Sorokin\Pract6_Sorokin\obj\Debug\net10.0\Pract6_Sorokin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sssssss\source\repos\Pract6_Sorokin\Pract6_Sorokin\obj\Debug\net10.0\Pract6_Sorokin.AssemblyInfoInputs.cache
+C:\Users\sssssss\source\repos\Pract6_Sorokin\Pract6_Sorokin\obj\Debug\net10.0\Pract6_Sorokin.AssemblyInfo.cs
+C:\Users\sssssss\source\repos\Pract6_Sorokin\Pract6_Sorokin\obj\Debug\net10.0\Pract6_Sorokin.csproj.CoreCompileInputs.cache
+C:\Users\sssssss\source\repos\Pract6_Sorokin\Pract6_Sorokin\obj\Debug\net10.0\Pract6_Sorokin.dll
+C:\Users\sssssss\source\repos\Pract6_Sorokin\Pract6_Sorokin\obj\Debug\net10.0\refint\Pract6_Sorokin.dll
+C:\Users\sssssss\source\repos\Pract6_Sorokin\Pract6_Sorokin\obj\Debug\net10.0\Pract6_Sorokin.pdb
+C:\Users\sssssss\source\repos\Pract6_Sorokin\Pract6_Sorokin\obj\Debug\net10.0\Pract6_Sorokin.genruntimeconfig.cache
+C:\Users\sssssss\source\repos\Pract6_Sorokin\Pract6_Sorokin\obj\Debug\net10.0\ref\Pract6_Sorokin.dll

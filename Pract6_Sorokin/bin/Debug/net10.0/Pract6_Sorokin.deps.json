@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Pract6_Sorokin/1.0.0": {
+        "runtime": {
+          "Pract6_Sorokin.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pract6_Sorokin/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
